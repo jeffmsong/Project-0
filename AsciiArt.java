@@ -8,6 +8,7 @@
 *  
 *  purpose: This program prints a cool picture of Charizard.
 *  
+* First commit
 ****************************************************************/  
 
 public class AsciiArt{  
